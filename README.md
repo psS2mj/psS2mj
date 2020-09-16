@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- badges -->
 [![naverblog](https://img.shields.io/badge/naverblog-badge?style=flat-squre&logo=Blogger&logoColor=white)](https://blog.naver.com/ming___jee)
+[![tistory](https://img.shields.io/badge/-tistory-orange?style=flat-squre&logo=Micro.blog&logoColor=white)](https://ming-jee.tistory.com/)
 
+<!-- 백준 티어 -->
 [![SolvedAc tier](http://mazassumnida.wtf/api/generate_badge?boj=psS2mj)](https://solved.ac/psS2mj)
