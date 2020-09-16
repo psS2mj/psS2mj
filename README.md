@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![naverblog](https://img.shields.io/badge/naverblog-badge?style=flat-squre&logo=Blogger&logoColor=white)](https://blog.naver.com/ming___jee)
+
 [![SolvedAc tier](http://mazassumnida.wtf/api/generate_badge?boj=psS2mj)](https://solved.ac/psS2mj)
