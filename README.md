@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!-- 연혁 -->
 |         Type          |       Date        | Contents                                  |  Organization   |
 | :-------------------: | :---------------: | --------------------------------- | :-------------: |
-|   **`👩🏻‍💻Company`**   |     2021.06 ~     | **Back-end Developer** <br>[![CSharp](https://img.shields.io/badge/language-CSharp-blue?logo=CSharp)]() [![.NET](https://img.shields.io/badge/framework-.NET-blueviolet?logo=.NET)]() [![DB](https://img.shields.io/badge/database-MS--SQL·MariaDB-9cf?logo=MariaDB)]() |    ⚾    |
+|   **`👩🏻‍💻Company`**   |     2021.06 ~     | **Back-end Developer** <br>[![CSharp](https://img.shields.io/badge/language-CSharp-brightgreen?logo=CSharp)]() [![.NET](https://img.shields.io/badge/framework-.NET-blueviolet?logo=.NET)]() [![DB](https://img.shields.io/badge/database-MS--SQL·MariaDB-blue?logo=MariaDB)]() |    ⚾    |
 |   **`📚Education`**  | 2020.01 ~ 2020.12 | **SSAFY(SAMSUNG SW ACADEMY FOR YOUTH)** |  Samsung  |
 |   **`📜Paper`**  | 2018.11 | **기업 재무제표 데이터와 일별 시계열 데이터를 활용한 기계학습<br> 알고리즘 연구 (A Study on the Machine Learning Algorithm<br> based on the Financial Time Series Data)** <br>_2018년 한국지능정보시스템학회 추계학술대회 논문집, <br>2018.11, 82-84 (3 pages)_ |  한국지능정보<br>시스템학회<br>(Korea Intelligent <br>Information <br>Systems Society)  |
 |  **`📚Education`** | 2015.03 ~ 2019.08 | **Bachelor of Science in Engineering<br>(Software and Computer Engineering), Minor(Economics)** | Ajou Univ. |
