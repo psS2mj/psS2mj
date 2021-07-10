@@ -1,6 +1,10 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=I'm%20Back-end%20Developer%20MinJi⚾!&fontSize=50&fontAlign=50&fontAlignY=40&color=gradient&animation=twinkling$desc=Back-end%20Developer&descAlignY=51&descAlign=62)
 
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbkcvbQ%2FbtqDbk1c3vl%2Fk77M8e0QIQT7HksaFWMhg0%2Fimg.png" width="40%">
+<!-- <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbkcvbQ%2FbtqDbk1c3vl%2Fk77M8e0QIQT7HksaFWMhg0%2Fimg.png" width="40%">
+<img src="./image/MINJI.jpg" width="50%"> -->
+
+![image.jpg1](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbkcvbQ%2FbtqDbk1c3vl%2Fk77M8e0QIQT7HksaFWMhg0%2Fimg.png) |![image.jpg2](./image/MINJI.jpg)
+--- | --- | 
 
 ### Hi there 👋
 
