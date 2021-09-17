@@ -1,12 +1,16 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=I'm%20Back-end%20Developer%20MinJi⚾!&fontSize=50&fontAlign=50&fontAlignY=40&color=gradient&animation=twinkling$desc=Back-end%20Developer&descAlignY=51&descAlign=62)
 
+### Hi there 👋
+
+<!-- badges -->
+[![naverblog](https://img.shields.io/badge/naverblog-badge?style=flat-squre&logo=Blogger&logoColor=white)](https://blog.naver.com/ming___jee)
+[![tistory](https://img.shields.io/badge/-tistory-orange?style=flat-squre&logo=Micro.blog&logoColor=white)](https://ming-jee.tistory.com/)
+
 <!-- <img src="./image/MINJI_PROFILE_2021.08.jpg" width="40%">
 <img src="./image/MINJI.jpg" width="50%"> -->
 
 ![image.jpg1](./image/MINJI_PROFILE_2021.08.jpg) `2021.08 in Jeju` |![image.jpg2](./image/MINJI.jpg) _만두에게는 매일이 모험! <br> "나는 커서 뭐가 될까?"_ <br><br> 먹고 놀기 좋아하고 호기심 많은 개발자ෆ’ᴗ’ෆ <br> 현재는 덕업일치 직장인⚾ <br><br> 소프트웨어(컴퓨터공학) & 경제 전공 <br> 취미는 드럼, 야구, 스쿼시 <!-- <br></br>I love computer💻 -->
 --- | --- | 
-
-### Hi there 👋
 
 <!--
 **psS2mj/psS2mj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,10 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- badges -->
-[![naverblog](https://img.shields.io/badge/naverblog-badge?style=flat-squre&logo=Blogger&logoColor=white)](https://blog.naver.com/ming___jee)
-[![tistory](https://img.shields.io/badge/-tistory-orange?style=flat-squre&logo=Micro.blog&logoColor=white)](https://ming-jee.tistory.com/)
 
 <!-- ----- -->
 
