@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=I'm%20Back-end%20Developer%20MinJi⚾!&fontSize=50&fontAlign=50&fontAlignY=40&color=gradient&animation=twinkling$desc=Back-end%20Developer&descAlignY=51&descAlign=62)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=I'm%20Back-end%20Developer%20MinJi👩🏻‍💻!&fontSize=50&fontAlign=50&fontAlignY=40&color=gradient&animation=twinkling$desc=Back-end%20Developer&descAlignY=51&descAlign=62)
 
 <!-- <img src="./image/MINJI_PROFILE_2021.08.jpg" width="40%">
 <img src="./image/MINJI.jpg" width="50%"> -->
