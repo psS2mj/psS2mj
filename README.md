@@ -17,8 +17,13 @@
   
 <br><br>
   
+</div>
+  
 <!-- 연혁 -->
 ## 🌳𝐂𝐚𝐫𝐞𝐞𝐫🌳
+
+<div align='center'>
+
 |         Type          |       Date        | Contents                                  |  Organization   |
 | :-------------------: | :---------------: | --------------------------------- | :-------------: |
 |   **`🌱Company`**   |     2021.06 ~ 2022.02    | **Back-end Developer** <br>[![CSharp](https://img.shields.io/badge/language-CSharp_·_JavaScript-brightgreen?logo=CSharp)]() [![.NET](https://img.shields.io/badge/framework-ASP.NET_Core_MVC-blueviolet?logo=.NET)]() <br>[![DB](https://img.shields.io/badge/database-MS--SQL_·_MariaDB-blue?logo=MariaDB)]() |    ⚾    |
@@ -27,6 +32,7 @@
 |   **`📜Paper`**  | 2016.11 | **[기계 학습 기반의 개인 맞춤형 의상 추천 시스템 (Machine Learning<br> based Fashion Recommendation System for Personal Preference)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07082985)** <br>_2018년 한국지능정보시스템학회 추계학술대회 논문집, <br>2016.11, 88 - 89(2 pages)_ ＊공동저자 |  한국통신학회  |
 |  **`📚Education`** | 2015.03 ~ 2019.08 | **Bachelor of Science in Engineering<br>(Software and Computer Engineering), Minor(Economics)** | Ajou Univ. |
 
+</div>
 <br>
 
 ## 📚𝐁𝐥𝐨𝐠📚
@@ -46,8 +52,6 @@
 - [RepoDB.NET#39](https://github.com/mikependon/RepoDB.NET/pull/39)
   
 <br>
-
-<div align='center'>
 
 ## 💾𝐑𝐞𝐜𝐨𝐫𝐝💾
 
