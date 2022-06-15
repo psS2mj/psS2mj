@@ -18,7 +18,7 @@
 <br><br>
   
 <!-- 연혁 -->
-## 𝐂𝐚𝐫𝐞𝐞𝐫
+## 🌳𝐂𝐚𝐫𝐞𝐞𝐫🌳
 |         Type          |       Date        | Contents                                  |  Organization   |
 | :-------------------: | :---------------: | --------------------------------- | :-------------: |
 |   **`🌱Company`**   |     2021.06 ~ 2022.02    | **Back-end Developer** <br>[![CSharp](https://img.shields.io/badge/language-CSharp_·_JavaScript-brightgreen?logo=CSharp)]() [![.NET](https://img.shields.io/badge/framework-ASP.NET_Core_MVC-blueviolet?logo=.NET)]() <br>[![DB](https://img.shields.io/badge/database-MS--SQL_·_MariaDB-blue?logo=MariaDB)]() |    ⚾    |
@@ -29,7 +29,7 @@
 
 <br>
 
-## 𝐁𝐥𝐨𝐠
+## 📚𝐁𝐥𝐨𝐠📚
 
 <!-- badges -->
 [![naverblog](https://img.shields.io/badge/naverblog-badge?style=flat-squre&logo=Blogger&logoColor=white)](https://blog.naver.com/ming___jee) 𝐌𝐚𝐢𝐧 𝐁𝐥𝐨𝐠 (𝚍𝚊𝚒𝚕𝚢 𝚕𝚒𝚏𝚎, 𝚏𝚘𝚘𝚍, 𝚝𝚛𝚒𝚙, 𝚐𝚊𝚖𝚎, 𝚑𝚘𝚋𝚋𝚢, 𝚎𝚝𝚌.)
@@ -38,7 +38,18 @@
   
 <br>
 
-## 𝐑𝐞𝐜𝐨𝐫𝐝
+## 📤𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞📤
+  
+</div>
+
+### 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧𝐬
+- [RepoDB.NET#39](https://github.com/mikependon/RepoDB.NET/pull/39)
+  
+<br>
+
+<div align='center'>
+
+## 💾𝐑𝐞𝐜𝐨𝐫𝐝💾
 
 <!-- 백준 티어, Github  -->
 <!-- [![Solved.ac psS2mj](http://mazassumnida.wtf/api/mini/generate_badge?boj=psS2mj)](https://solved.ac/psS2mj) -->
