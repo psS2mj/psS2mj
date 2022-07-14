@@ -38,9 +38,9 @@
 ## 📚𝐁𝐥𝐨𝐠📚
 
 <!-- badges -->
-[![naverblog](https://img.shields.io/badge/naverblog-badge?style=flat-squre&logo=Blogger&logoColor=white)](https://blog.naver.com/ming___jee) 𝐌𝐚𝐢𝐧 𝐁𝐥𝐨𝐠 (𝚍𝚊𝚒𝚕𝚢 𝚕𝚒𝚏𝚎, 𝚏𝚘𝚘𝚍, 𝚝𝚛𝚒𝚙, 𝚐𝚊𝚖𝚎, 𝚑𝚘𝚋𝚋𝚢, 𝚎𝚝𝚌.)
+[![naverblog](https://img.shields.io/badge/naverblog-badge?style=flat-squre&logo=Blogger&logoColor=white)](https://blog.naver.com/ming___jee) 𝐃𝐚𝐢𝐥𝐲 𝐁𝐥𝐨𝐠 (𝚍𝚊𝚒𝚕𝚢 𝚕𝚒𝚏𝚎, 𝚏𝚘𝚘𝚍, 𝚝𝚛𝚒𝚙, 𝚐𝚊𝚖𝚎, 𝚑𝚘𝚋𝚋𝚢, 𝚎𝚝𝚌.)
 <br>
-[![tistory](https://img.shields.io/badge/-tistory-orange?style=flat-squre&logo=Micro.blog&logoColor=white)](https://ming-jee.tistory.com/) 𝐒𝐮𝐛 𝐁𝐥𝐨𝐠 (𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝚊𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖, 𝚎𝚝𝚌.)
+[![tistory](https://img.shields.io/badge/-tistory-orange?style=flat-squre&logo=Micro.blog&logoColor=white)](https://ming-jee.tistory.com/) 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐁𝐥𝐨𝐠 (𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝚊𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖, 𝚎𝚝𝚌.)
   
 <br>
 
