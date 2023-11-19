@@ -4,14 +4,20 @@
 
 <!-- <img src="./image/MINJI_PROFILE_2021.08.jpg" width="40%">
 <img src="./image/MINJI.jpg" width="50%"> -->
+<!-- ![image.jpg1](./image/MINJI_PROFILE_2022.09.jpg) `2022.09 in Seokchon Lake` -->
 
-![image.jpg1](./image/MINJI_PROFILE_2021.08.jpg) `2021.08 in Jeju` |![image.jpg2](./image/MINJI.jpg) 소프트웨어(컴퓨터공학) & 경제 전공 <br> 취미는 드럼, 야구, 스쿼시 <!-- <br></br>I love computer💻 -->
---- | --- | 
+<!-- ![image.jpg1](./image/MINJI_PROFILE_2022.09.jpg) `2022.09 in Seokchon Lake`  |![image.jpg2](./image/MINJI.jpg) 소프트웨어(컴퓨터공학) & 경제 전공 <br> 취미는 드럼, 야구, 스쿼시 <!-- <br></br>I love computer💻 -->
+<!-- --- | --- |  -->
+
+<img src="./image/MINJI_PROFILE_2022.09.jpg" width="45%"><br>
+**`2022.09 in Seokchon Lake`**
 
 <br>
   
 ### 𝐻𝑖 𝑡ℎ𝑒𝑟𝑒 👋
 𝙸'𝚖 𝚙𝚜𝚂𝟸𝚖𝚓 🐼💜
+
+<img src="./image/MINJI.jpg" width="40%"><br>**소프트웨어(컴퓨터공학) & 경제 전공 <br> 취미는 드럼, 야구, 스쿼시**
   
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbkcvbQ%2FbtqDbk1c3vl%2Fk77M8e0QIQT7HksaFWMhg0%2Fimg.png" width="20%">
   
